@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+## 24-1R 수강 과목
+* 언어와 컴퓨터I
+* 기호학
+* 사회언어학
+* 응용기호학
+* 고전 데이터 처리와 비판적 AI 리터러시
+* 디지털 환경과 윤리적 문제
+
 <!--
 **Yejin-k1m/Yejin-k1m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
